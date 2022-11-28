@@ -5,7 +5,7 @@ We may restrict access if we use the hsw.js compute API commercially or if we de
 
 If you want to work with me, ask me!
 I provide unlimited APIs and source code as my server resources allow.
-https://api.vxxx.cf/docs
+https://hcaptcha.vxxx.cf/docs
 
 ## Donate
 Bitcoin Address: bc1qf9rxtmxf06efucercesh0mychxtucqk5mfqfv2
